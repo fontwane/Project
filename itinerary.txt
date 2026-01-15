@@ -8,3 +8,6 @@
     House from Practical 1_2
     Snowman from Classwork 1_4
     
+THINGS TO DO
+
+>bring in distance and other functions
